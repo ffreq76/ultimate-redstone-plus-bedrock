@@ -99,3 +99,4 @@ is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay 
 
   ### [0.0.11a] - 08.08.25
     > First alpha! 
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
