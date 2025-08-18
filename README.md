@@ -1,9 +1,7 @@
 ![Title](https://github.com/shadowkiller76/ultimate-redstone-plus/blob/main/pack_title.png?raw=true)       
+is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay clarity and functionality.
 
-## Thank you
-
-  ...for downloading my ADDON!
-
+---
   I put a lot of passion and effort into creating Ultimate Redstone+, so if you decide to use it in your online content (YouTube
   videos, Twitch streams etc.) I'd be really grateful if you could give me a shout-out or a short mention.
   If you want to support me, simply paste the following text into your description:
