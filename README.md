@@ -65,13 +65,13 @@ is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay 
 </details>
 ------------------------------------------------------------ CHANGELOG -----------------------------------------------------------
   
-  ### [0.0.22a] - 18.08.25
+  #### [0.0.22a] - 18.08.25
     > Added alternative textures for the following blocks:
       > Nether wart(2nd stage)
       > Crafter(south)
     > Edited pack_icon
 
-  ##### [0.0.20a] - 14.08.25
+  #### [0.0.20a] - 14.08.25
     > Added alternative textures for the following blocks:
       > Beetroot
       > Carrot
@@ -87,7 +87,7 @@ is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay 
       > Dispenser
       > Dropper
   
-  ##### [0.0.17a] - 11.08.25
+  #### [0.0.17a] - 11.08.25
     > Added alternative textures for the following blocks:
       > Ancient debris
       > Dropper
