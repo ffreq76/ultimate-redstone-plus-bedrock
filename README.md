@@ -13,51 +13,57 @@
 ```
 ## Credits
 
-  > Based on original textures by Mojang Studios
+- Based on original textures by Mojang Studios
 
 ## Feature list
 
-  PRIMARY
-    - Observer: Show direction & powered
-    - Furnace, Blast Furnace & Smoker: Show lit
-    - Respawn anchor: load dots bottom
-    - Experience orb: Digital count display
-    - Crafter: Show triggered & crafting
-
-  OUTLINES
-    > Ancient debris
-    > Budding amethyst block
-    > Bedrock
-    > Creaking heart
-    > Coal ore
-    > Deepslate coal ore
-    > Copper ore
-    > Deepslate copper ore
-    > Redstone ore
-    > Deepslate redstone ore
-    > Gold ore
-    > Deepslate gold ore
-    > Lapis ore
-    > Deepslate lapis ore
-    > Diamond ore
-    > Deepslate diamond ore
-    > Emerald ore
-    > Deepslate emerald ore
-    > Quartz ore
-    > Nether gold ore
-    > Gilded blackstone
-    > Suspicious sand
-    > Suspicious gravel
-
-  ADDITIONAL
-    > Amethyst cluster: Another texture 
-    > Sticky piston: Green filter
-    > Daylight detector: Another textures
-    > Beetroot, carrot & potatoes: Another 3rd stage texture
-    > Nether wart: Another 2nd stage texture
-    > Wheat: Another 6 & 7 stage textures
-    > Redstone dust: Solid texture
-
+<details>
+<summary>Primary</summary>
+  
+  - Observer: Show direction & powered
+  - Furnace, Blast Furnace & Smoker: Show lit
+  - Respawn anchor: load dots bottom
+  - Experience orb: Digital count display
+  - Crafter: Show triggered & crafting
+</details>
+<details>
+<summary>Outlines</summary>
+  
+  - Ancient debris
+  - Budding amethyst block
+  - Bedrock
+  - Creaking heart
+  - Coal ore
+  - Deepslate coal ore
+  - Copper ore
+  - Deepslate copper ore
+  - Redstone ore
+  - Deepslate redstone ore
+  - Gold ore
+  - Deepslate gold ore
+  - Lapis ore
+  - Deepslate lapis ore
+  - Diamond ore
+  - Deepslate diamond ore
+  - Emerald ore
+  - Deepslate emerald ore
+  - Quartz ore
+  - Nether gold ore
+  - Gilded blackstone
+  - Suspicious sand
+  - Suspicious gravel
+</details>
+<details>
+<summary>Additional</summary>
+  
+  - Amethyst cluster: Another texture 
+  - Sticky piston: Green filter
+  - Daylight detector: Another textures
+  - Beetroot, carrot & potatoes: Another 3rd stage texture
+  - Nether wart: Another 2nd stage texture
+  - Wheat: Another 6 & 7 stage textures
+  - Redstone dust: Solid texture
+</details>
 ------------------------------------------------------------ CHANGELOG -----------------------------------------------------------
   
   > [0.0.22a] - 18.08.25
@@ -96,18 +102,3 @@
 
   > [0.0.11a] - 08.08.25
     > First alpha! 
-
-------------------------------------------------------------- LICENSE ------------------------------------------------------------
-
-License: CC-BY-NC-SA-4.0
-
-✅ You can: Share, adapt, use non-commercially
-
-⚠️ You must:
-Credit "shadowkiller76"
-Link to license
-Share derivatives under same license
-
-❌ You cannot: Sell or monetize this addon
-
-----------------------------------------------------------------------------------------------------------------------------------
