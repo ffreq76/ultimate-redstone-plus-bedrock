@@ -1,0 +1,319 @@
+{
+    "resource_pack_name": "Ultimate Redstone+",
+    "texture_name": "atlas.terrain",
+    "padding": 8,
+    "num_mip_levels": 4,
+    "texture_data": {
+        "missing": {
+            "textures": "textures/misc/missing_texture"
+        },
+        "amethyst_cluster": {
+            "textures": "textures/blocks/amethyst/amethyst_cluster"
+        },
+        "budding_amethyst": {
+            "textures": "textures/blocks/amethyst/budding_amethyst"
+        },
+        "ancient_debris_top": {
+            "textures": "textures/blocks/ancient_debris/ancient_debris_top"
+        },
+        "ancient_debris_side": {
+            "textures": "textures/blocks/ancient_debris/ancient_debris_side"
+        },
+        "blast_furnace_front_off": {
+            "textures": "textures/blocks/blast_furnace/blast_furnace_front_off"
+        },
+        "blast_furnace_front_on": {
+            "textures": "textures/blocks/blast_furnace/blast_furnace_front_on"
+        },
+        "blast_furnace_top": {
+            "textures": "textures/blocks/blast_furnace/blast_furnace_top"
+        },
+        "blast_furnace_top_lit": {
+            "textures": "textures/blocks/blast_furnace/blast_furnace_top_lit"
+        },
+        "blast_furnace_side": {
+            "textures": "textures/blocks/blast_furnace/blast_furnace_side"
+        },
+        "blast_furnace_side_lit": {
+            "textures": "textures/blocks/blast_furnace/blast_furnace_side_lit"
+        },
+        "crafter_south": {
+            "textures": [
+                "textures/blocks/crafter/crafter_south",
+                "textures/blocks/crafter/crafter_south_triggered",
+                "textures/blocks/crafter/crafter_south_crafting"
+            ]
+        },
+        "creaking_heart_top": {
+            "textures": [
+                "textures/blocks/creaking_heart/creaking_heart_top_inactive",
+                "textures/blocks/creaking_heart/creaking_heart_top_dormant",
+                "textures/blocks/creaking_heart/creaking_heart_top_active"
+            ]
+        },
+        "creaking_heart_side": {
+            "textures": [
+                "textures/blocks/creaking_heart/creaking_heart_side_inactive",
+                "textures/blocks/creaking_heart/creaking_heart_side_dormant",
+                "textures/blocks/creaking_heart/creaking_heart_side_active"
+            ]
+        },
+        "daylight_detector_side": {
+            "textures": [
+                "textures/blocks/daylight_detector/daylight_detector_side",
+                "textures/blocks/daylight_detector/daylight_detector_inverted_side"
+            ]
+        },
+        "daylight_detector_top": {
+            "textures": [
+                "textures/blocks/daylight_detector/daylight_detector_top",
+                "textures/blocks/daylight_detector/daylight_detector_inverted_top"
+            ]
+        },
+        "flowing_water_grey": {
+            "quad": 1,
+            "textures": "textures/blocks/water_flow_grey"
+        },
+        "still_water_grey": {
+            "textures": "textures/blocks/water_still_grey"
+        },
+        "flowing_lava": {
+            "quad": 1,
+            "textures": "textures/blocks/lava_flow"
+        },
+        "still_lava": {
+            "textures": "textures/blocks/lava_still"
+        },
+        "furnace_front_off": {
+            "textures": "textures/blocks/furnace/furnace_front_off"
+        },
+        "furnace_front_on": {
+            "textures": "textures/blocks/furnace/furnace_front_on"
+        },
+        "furnace_top": {
+            "textures": "textures/blocks/furnace/furnace_top"
+        },
+        "furnace_top_lit": {
+            "textures": "textures/blocks/furnace/furnace_top_lit"
+        },
+        "furnace_side": {
+            "textures": "textures/blocks/furnace/furnace_side"
+        },
+        "furnace_side_lit": {
+            "textures": "textures/blocks/furnace/furnace_side_lit"
+        },
+        "nether_wart": {
+            "textures": [
+                "textures/blocks/nether_wart/nether_wart_stage_0",
+                "textures/blocks/nether_wart/nether_wart_stage_1",
+                "textures/blocks/nether_wart/nether_wart_stage_1",
+                "textures/blocks/nether_wart/nether_wart_stage_2"
+            ]
+        },
+        "observer_north": {
+            "textures": [
+                "textures/blocks/observer/observer_front",
+                "textures/blocks/observer/observer_front_lit"
+            ]
+        },
+        "observer_south": {
+            "textures": [
+                "textures/blocks/observer/observer_back",
+                "textures/blocks/observer/observer_back_lit"
+            ]
+        },
+        "observer_east": {
+            "textures": [
+                "textures/blocks/observer/observer_side",
+                "textures/blocks/observer/observer_side_lit"
+            ]
+        },
+        "observer_west": {
+            "textures": [
+                "textures/blocks/observer/observer_side",
+                "textures/blocks/observer/observer_side_lit"
+            ]
+        },
+        "observer_top": {
+            "textures": [
+                "textures/blocks/observer/observer_top",
+                "textures/blocks/observer/observer_top_lit"
+            ]
+        },
+        "observer_bottom": {
+            "textures": [
+                "textures/blocks/observer/observer_top",
+                "textures/blocks/observer/observer_top_lit"
+            ]
+        },
+        "coal_ore": {
+            "textures": "textures/blocks/ore/coal_ore"
+        },
+        "copper_ore": {
+            "textures": "textures/blocks/ore/copper_ore"
+        },
+        "gold_ore": {
+            "textures": "textures/blocks/ore/gold_ore"
+        },
+        "iron_ore": {
+            "textures": "textures/blocks/ore/iron_ore"
+        },
+        "lapis_ore": {
+            "textures": "textures/blocks/ore/lapis_ore"
+        },
+        "diamond_ore": {
+            "textures": "textures/blocks/ore/diamond_ore"
+        },
+        "redstone_ore": {
+            "textures": "textures/blocks/ore/redstone_ore"
+        },
+        "emerald_ore": {
+            "textures": "textures/blocks/ore/emerald_ore"
+        },
+        "quartz_ore": {
+            "textures": "textures/blocks/ore/quartz_ore"
+        },
+        "nether_gold_ore": {
+            "textures": "textures/blocks/ore/nether_gold_ore"
+        },
+        "deepslate_diamond_ore": {
+            "textures": "textures/blocks/ore/deepslate/deepslate_diamond_ore"
+        },
+        "deepslate_gold_ore": {
+            "textures": "textures/blocks/ore/deepslate/deepslate_gold_ore"
+        },
+        "deepslate_iron_ore": {
+            "textures": "textures/blocks/ore/deepslate/deepslate_iron_ore"
+        },
+        "deepslate_lapis_ore": {
+            "textures": "textures/blocks/ore/deepslate/deepslate_lapis_ore"
+        },
+        "deepslate_redstone_ore": {
+            "textures": "textures/blocks/ore/deepslate/deepslate_redstone_ore"
+        },
+        "deepslate_coal_ore": {
+            "textures": "textures/blocks/ore/deepslate/deepslate_coal_ore"
+        },
+        "deepslate_emerald_ore": {
+            "textures": "textures/blocks/ore/deepslate/deepslate_emerald_ore"
+        },
+        "deepslate_copper_ore": {
+            "textures": "textures/blocks/ore/deepslate/deepslate_copper_ore"
+        },
+        "gilded_blackstone": {
+            "textures": "textures/blocks/ore/gilded_blackstone"
+        },
+        "carrots": {
+            "textures": [
+                "textures/blocks/plants/carrots_stage_0",
+                "textures/blocks/plants/carrots_stage_1",
+                "textures/blocks/plants/carrots_stage_2",
+                "textures/blocks/plants/carrots_stage_3"
+            ]
+        },
+        "potatoes": {
+            "textures": [
+                "textures/blocks/plants/potatoes_stage_0",
+                "textures/blocks/plants/potatoes_stage_1",
+                "textures/blocks/plants/potatoes_stage_2",
+                "textures/blocks/plants/potatoes_stage_3"
+            ]
+        },
+        "beetroot": {
+            "textures": [
+                "textures/blocks/plants/beetroots_stage_0",
+                "textures/blocks/plants/beetroots_stage_1",
+                "textures/blocks/plants/beetroots_stage_2",
+                "textures/blocks/plants/beetroots_stage_3"
+            ]
+        },
+        "wheat": {
+            "textures": [
+                "textures/blocks/plants/wheat_stage_0",
+                "textures/blocks/plants/wheat_stage_1",
+                "textures/blocks/plants/wheat_stage_2",
+                "textures/blocks/plants/wheat_stage_3",
+                "textures/blocks/plants/wheat_stage_4",
+                "textures/blocks/plants/wheat_stage_5",
+                "textures/blocks/plants/wheat_stage_6",
+                "textures/blocks/plants/wheat_stage_7"
+            ]
+        },
+        "redstone_dust_cross": {
+            "textures": "textures/blocks/redstone_dust/redstone_dust_cross"
+        },
+        "redstone_dust_line": {
+            "textures": "textures/blocks/redstone_dust/redstone_dust_line"
+        },
+        "respawn_anchor_bottom": {
+            "textures": [
+                "textures/blocks/respawn_anchor/respawn_anchor_bottom0",
+                "textures/blocks/respawn_anchor/respawn_anchor_bottom1",
+                "textures/blocks/respawn_anchor/respawn_anchor_bottom2",
+                "textures/blocks/respawn_anchor/respawn_anchor_bottom3",
+                "textures/blocks/respawn_anchor/respawn_anchor_bottom4"
+            ]
+        },
+        "respawn_anchor_side": {
+            "textures": [
+                "textures/blocks/respawn_anchor/respawn_anchor_side0",
+                "textures/blocks/respawn_anchor/respawn_anchor_side1",
+                "textures/blocks/respawn_anchor/respawn_anchor_side2",
+                "textures/blocks/respawn_anchor/respawn_anchor_side3",
+                "textures/blocks/respawn_anchor/respawn_anchor_side4"
+            ]
+        },
+        "smoker_front_off": {
+            "textures": "textures/blocks/smoker/smoker_front_off"
+        },
+        "smoker_front_on": {
+            "textures": "textures/blocks/smoker/smoker_front_on"
+        },
+        "smoker_top": {
+            "textures": "textures/blocks/smoker/smoker_top"
+        },
+        "smoker_top_lit": {
+            "textures": "textures/blocks/smoker/smoker_top_lit"
+        },
+        "smoker_side": {
+            "textures": "textures/blocks/smoker/smoker_side"
+        },
+        "smoker_side_lit": {
+            "textures": "textures/blocks/smoker/smoker_side_lit"
+        },
+        "smoker_bottom": {
+            "textures": "textures/blocks/smoker/smoker_bottom"
+        },
+        "piston_top_sticky": {
+            "textures": "textures/blocks/sticky_piston/piston_top_sticky"
+        },
+        "piston_bottom_sticky": {
+            "textures": "textures/blocks/sticky_piston/piston_bottom_sticky"
+        },
+        "piston_side_sticky": {
+            "textures": "textures/blocks/sticky_piston/piston_side_sticky"
+        },
+        "piston_inner_sticky": {
+            "textures": "textures/blocks/sticky_piston/piston_inner_sticky"
+        },
+        "suspicious_sand": {
+            "textures": [
+                "textures/blocks/suspicious/suspicious_sand_0",
+                "textures/blocks/suspicious/suspicious_sand_1",
+                "textures/blocks/suspicious/suspicious_sand_2",
+                "textures/blocks/suspicious/suspicious_sand_3"
+            ]
+        },
+        "suspicious_gravel": {
+            "textures": [
+                "textures/blocks/suspicious/suspicious_gravel_0",
+                "textures/blocks/suspicious/suspicious_gravel_1",
+                "textures/blocks/suspicious/suspicious_gravel_2",
+                "textures/blocks/suspicious/suspicious_gravel_3"
+            ]
+        },
+        "bedrock": {
+            "textures": "textures/blocks/bedrock"
+        }
+    }
+}

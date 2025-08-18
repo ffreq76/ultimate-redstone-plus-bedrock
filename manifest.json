@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Additional §ltextures §rto improve gameplay clarity and functionality.",
+        "name": "§4§lUltimate Redstone+§r",
+        "uuid": "b13e563a-7310-11f0-8de9-0242ac120002",
+        "version": [0, 0, 22],
+        "min_engine_version": [ 1, 21, 80 ],
+        "platform_locked": false,
+        "pack_scope": "global" 
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "bc0ace04-7310-11f0-8de9-0242ac120002",
+            "version": [0, 0, 22]
+        }
+    ],
+    "metadata": {
+        "authors": ["shadowkiller76"],
+        "license": "CC-BY-NC-SA-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+}
