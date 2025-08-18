@@ -10,7 +10,7 @@ is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay 
   https://www.planetminecraft.com/texture-pack/ultimate-redstone-6701747/
 ```
 ---
-## Feature list
+## Features
 
 <details>
 <summary>Primary</summary>
