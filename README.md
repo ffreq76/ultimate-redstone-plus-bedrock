@@ -1,38 +1,28 @@
+![Title](https://github.com/shadowkiller76/ultimate-redstone-plus/blob/main/pack_title.png?raw=true)       
 
-   __  ______  _                 __          ____           __     __                       
-  / / / / / /_(_)___ ___  ____ _/ /____     / __ \___  ____/ /____/ /_____  ____  ___    __ 
- / / / / / __/ / __ `__ \/ __ `/ __/ _ \   / /_/ / _ \/ __  / ___/ __/ __ \/ __ \/ _ \__/ /_
-/ /_/ / / /_/ / / / / / / /_/ / /_/  __/  / _, _/  __/ /_/ (__  ) /_/ /_/ / / / /  __/_  __/
-\____/_/\__/_/_/ /_/ /_/\__,_/\__/\___/  /_/ |_|\___/\__,_/____/\__/\____/_/ /_/\___/ /_/   
-                                                                
- _              _         _           _   _ _ _         ___ ___ 
-| |_ _ _    ___| |_ ___ _| |___ _ _ _| |_|_| | |___ ___|_  |  _|
-| . | | |  |_ -|   | .'| . | . | | | | '_| | | | -_|  _| | | . |  Version 0.0.22a - Minecraft: Bedrock Edition 1.21.80+
-|___|_  |  |___|_|_|__,|___|___|_____|_,_|_|_|_|___|_|   |_|___|
-    |___|                                                                                                            
----------------------------------------------------------- THANK YOU ----------------------------------------------------------
+## Thank you
 
   ...for downloading my ADDON!
 
   I put a lot of passion and effort into creating Ultimate Redstone+, so if you decide to use it in your online content (YouTube
   videos, Twitch streams etc.) I'd be really grateful if you could give me a shout-out or a short mention.
   If you want to support me, simply paste the following text into your description:
-
+```
   Addon: Ultimate Redstone+ by shadowkiller76
   https://www.planetminecraft.com/texture-pack/ultimate-redstone-6701747/
-
------------------------------------------------------------ CREDITS ----------------------------------------------------------- 
+```
+## Credits
 
   > Based on original textures by Mojang Studios
 
---------------------------------------------------------- FEATURE LIST --------------------------------------------------------
+## Feature list
 
   PRIMARY
-    > Observer: Show direction & powered
-    > Furnace, Blast Furnace & Smoker: Show lit
-    > Respawn anchor: load dots bottom
-    > Experience orb: Digital count display
-    > Crafter: Show triggered & crafting
+    - Observer: Show direction & powered
+    - Furnace, Blast Furnace & Smoker: Show lit
+    - Respawn anchor: load dots bottom
+    - Experience orb: Digital count display
+    - Crafter: Show triggered & crafting
 
   OUTLINES
     > Ancient debris
