@@ -9,6 +9,7 @@ is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay 
   Addon: Ultimate Redstone+ by shadowkiller76
   https://www.planetminecraft.com/texture-pack/ultimate-redstone-6701747/
 ```
+---
 ## Credits
 
 - Based on original textures by Mojang Studios
