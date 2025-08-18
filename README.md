@@ -10,10 +10,6 @@ is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay 
   https://www.planetminecraft.com/texture-pack/ultimate-redstone-6701747/
 ```
 ---
-## Credits
-
-- Based on original textures by Mojang Studios
-
 ## Feature list
 
 <details>
@@ -64,6 +60,8 @@ is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay 
   - Redstone dust: Solid texture
 </details>
 
+## Credits
+- Based on original textures by Mojang Studios
 ## Changelog
   ### [0.0.22a] - 18.08.25
     > Added alternative textures for the following blocks:
