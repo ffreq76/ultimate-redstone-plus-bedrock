@@ -100,5 +100,5 @@ is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay 
   ### [0.0.11a] - 08.08.25
     > First alpha! 
 ---
-[![PlanetMinecraft](https://static.wikia.nocookie.net/logopedia/images/4/4e/Planet_Minecraft_badge_2024.svg/revision/latest/scale-to-width-down/340?cb=20250303101854)](https://www.planetminecraft.com/texture-pack/ultimate-redstone-6701747/)  
+[![PlanetMinecraft](https://www.planetminecraft.com/texture-pack/ultimate-redstone-6701747/)  
 [![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
