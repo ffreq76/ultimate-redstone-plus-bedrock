@@ -6,8 +6,9 @@ is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay 
   videos, Twitch streams etc.) I'd be really grateful if you could give me a shout-out or a short mention.
   If you want to support me, simply paste the following text into your description:
 ```
-  Addon: Ultimate Redstone+ by shadowkiller76
-  https://www.planetminecraft.com/texture-pack/ultimate-redstone-6701747/
+Addon: Ultimate Redstone+ by shadowkiller76
+  1. https://www.planetminecraft.com/texture-pack/ultimate-redstone-6701747/
+  2. https://github.com/shadowkiller76/ultimate-redstone-plus/
 ```
 ---
 ## Features
