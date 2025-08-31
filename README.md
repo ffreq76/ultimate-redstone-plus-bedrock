@@ -101,5 +101,5 @@ Addon: Ultimate Redstone+ by shadowkiller76
   ### [0.0.11a] - 08.08.25
     > First alpha! 
 ---
-[PMC](https://www.planetminecraft.com/texture-pack/ultimate-redstone-6701747/)[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-Ultimate Redstone+ © 2025 by shadowkiller76
+####[PMC](https://www.planetminecraft.com/texture-pack/ultimate-redstone-6701747/)
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  Ultimate Redstone+ © 2025 by shadowkiller76
