@@ -1,4 +1,4 @@
-![Title](https://github.com/shadowkiller76/ultimate-redstone-plus/blob/main/pack_title.png?raw=true)       
+![Title](https://github.com/shadowkiller76/ultimate-redstone-plus-bedrock/blob/main/pack_title.png?raw=true)       
 is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay clarity and functionality.
 
 ---
