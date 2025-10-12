@@ -3,7 +3,8 @@ is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay 
 
 ---
 
-*ADDON SUPPORT HAS BEEN DISCONTINUED!*
+**ADDON SUPPORT HAS BEEN DISCONTINUED!**
+
 The project has been rebooted in Ultimate Redstone+ for Minecraft: JE 1.20+
 
 ---
