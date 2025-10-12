@@ -1,14 +1,19 @@
-![Title](https://github.com/shadowkiller76/ultimate-redstone-plus-bedrock/blob/main/pack_title.png?raw=true)       
+![Title](https://github.com/ffreq76/ultimate-redstone-plus-bedrock/blob/main/pack_title.png?raw=true)       
 is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay clarity and functionality.
 
 ---
-  I put a lot of passion and effort into creating Ultimate Redstone+, so if you decide to use it in your online content (YouTube
+
+*ADDON SUPPORT HAS BEEN DISCONTINUED!*
+The project has been rebooted in Ultimate Redstone+ for Minecraft: JE 1.20+
+
+---
+  I put a lot of passion and effort into creating Ultimate Redstone+ Bedrock, so if you decide to use it in your online content (YouTube
   videos, Twitch streams etc.) I'd be really grateful if you could give me a shout-out or a short mention.
   If you want to support me, simply paste the following text into your description:
 ```
-Addon: Ultimate Redstone+ by shadowkiller76
+Addon: Ultimate Redstone+ Bedrock by ffreq76
   1. https://www.planetminecraft.com/texture-pack/ultimate-redstone-6701747/
-  2. https://github.com/shadowkiller76/ultimate-redstone-plus/
+  2. https://github.com/ffreq76/ultimate-redstone-plus-bedrock/
 ```
 ---
 ## Features
@@ -101,4 +106,4 @@ Addon: Ultimate Redstone+ by shadowkiller76
   ### [0.0.11a] - 08.08.25
     > First alpha! 
 ---
-**Ultimate Redstone+ © 2025 by shadowkiller76 is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
+**Ultimate Redstone+ Bedrock © 2025 by ffreq76 is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
