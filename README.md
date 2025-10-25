@@ -5,7 +5,7 @@ is addon for Minecraft BE 1.21.80+ with additional textures to improve gameplay 
 
 **ADDON SUPPORT HAS BEEN DISCONTINUED!**
 
-The project has been rebooted in Ultimate Redstone+ for Minecraft: JE 1.20+
+The project has been rebooted in Ultimate Redstone+ for Minecraft: JE 1.20.2+
 
 ---
   I put a lot of passion and effort into creating Ultimate Redstone+ Bedrock, so if you decide to use it in your online content (YouTube
